@@ -1,0 +1,1 @@
+LOCATION=asia-northeast1 PROJECT_ID=leaflets-app-v2-220310 ALGOLIA_APP_ID=30Q9NX0ZJ9 ALGOLIA_API_KEY={ unspecified parameter } ALGOLIA_INDEX_NAME=posts COLLECTION_PATH=posts FIELDS=shopName,prefectures,place,caption GOOGLE_APPLICATION_CREDENTIALS=./sa.json npx firestore-algolia-search
